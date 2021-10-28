@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HitBox
+  - Coletavel
+  - damage
+  - abismo
+  - flag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Inimigo
+  - Invencivel
+  - hitBoxInimigo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 833051451
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PrimeiroPlano
+    uniqueID: 1206277587
+    locked: 0
